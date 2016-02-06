@@ -21,7 +21,7 @@ $(document).ready(function(){
     // have changed due to user interaction, etc
     var GreetingView = Backbone.View.extend({
         render: function(){
-            $(this.el).html("<p>Hello World</p>");
+            $(this.el).html("<h1>Hello World</h1>");
             return this;
         }
     });
