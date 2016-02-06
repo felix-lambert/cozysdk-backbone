@@ -1,5 +1,5 @@
 {
-  "name": "cozysdk-client-tuto-backbone",
+  "name": "cozy-sdk-client-tuto-backbone",
   "version": "0.0.1",
   "description": "An application to get you started with serverless web app development and Cozy.",
   "cozy-type": "static",
